@@ -1,0 +1,11 @@
+Paquete de correcciones para Tiagucci/G12-TPI-SP
+
+1. Descomprimir este ZIP en la raíz de una copia local del repositorio.
+2. Aceptar la sobrescritura de los archivos existentes.
+3. Revisar los cambios con git diff.
+4. Recargar los paquetes SolitarioPiramide y SolitarioPiramide-UI en Pharo 13.
+5. Ejecutar las pruebas o escenarios manuales antes de integrar los cambios.
+
+Se incluyen los archivos de clases modificados, el README actualizado y la documentación de responsabilidades de todas las clases.
+
+Importante: estos cambios fueron revisados estáticamente. No se pudo ejecutar Pharo en este entorno, por lo que no se afirma que hayan superado una compilación o una batería de pruebas.
